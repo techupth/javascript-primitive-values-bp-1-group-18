@@ -6,4 +6,5 @@ let numberOfProductInStock = undefined;
 
 console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
 
-//the answer is NaN (and yes I guessed before using Quokka ^^)
+//NaN
+

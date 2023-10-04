@@ -6,4 +6,3 @@ let uploadedSize = 30000;
 let uploadProgress = 0;
 uploadProgress = `${uploadedSize / totalFileSize * 100} %`; 
 console.log(uploadProgress);
-

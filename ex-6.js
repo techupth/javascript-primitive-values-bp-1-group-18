@@ -5,5 +5,3 @@ let itemName = "Machine parts";
 
 let concatSentence = intro + ' ' + totalParts + ' '+ itemName;
 let literalSentence = `"Total: ${totalParts} Machine parts"`;
-
-

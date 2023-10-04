@@ -1,8 +1,5 @@
 //Exercise #5: Shopping and Discount
 
-let productPrice = 27000;
-let discount25 = `${25 / 100 * productPrice}`;
-let priceAfterDiscount = `${productPrice - discount25}`;
-
-
-
+let costProduct = 27000;
+let disCount = (25/100)*costProduct
+let totalCost = costProduct - disCount
