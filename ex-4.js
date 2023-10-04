@@ -7,3 +7,4 @@ let numberOfProductInStock = undefined;
 console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
 
 //NaN
+
